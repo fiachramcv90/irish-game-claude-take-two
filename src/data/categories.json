@@ -1,0 +1,131 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "nameIrish": "Ainmhithe",
+      "nameEnglish": "Animals",
+      "description": "Common animals in Irish language learning",
+      "icon": "🐕",
+      "colorTheme": "#4CAF50",
+      "difficultyLevel": 1,
+      "priority": 1,
+      "totalWords": 15,
+      "completedWords": 0,
+      "progressPercent": 0,
+      "isLocked": false,
+      "estimatedPlayTime": "8-12 minutes",
+      "culturalContext": "Animals reflect Ireland's agricultural heritage and connection to nature",
+      "learningObjectives": [
+        "Recognize common animal names in Irish",
+        "Understand basic pronunciation patterns",
+        "Connect with Irish rural culture"
+      ]
+    },
+    {
+      "id": "colors",
+      "nameIrish": "Dathanna", 
+      "nameEnglish": "Colors",
+      "description": "Basic colors in Irish language learning",
+      "icon": "🎨",
+      "colorTheme": "#FF5722",
+      "difficultyLevel": 1,
+      "priority": 1,
+      "totalWords": 12,
+      "completedWords": 0,
+      "progressPercent": 0,
+      "isLocked": false,
+      "estimatedPlayTime": "6-10 minutes",
+      "culturalContext": "Irish colors reflect the natural beauty and cultural identity of Ireland",
+      "learningObjectives": [
+        "Learn basic color vocabulary",
+        "Understand cultural significance of Irish colors",
+        "Practice pronunciation of Irish sounds"
+      ]
+    },
+    {
+      "id": "food",
+      "nameIrish": "Bia",
+      "nameEnglish": "Food",
+      "description": "Traditional and modern Irish food vocabulary",
+      "icon": "🍞",
+      "colorTheme": "#FF9800",
+      "difficultyLevel": 2,
+      "priority": 2,
+      "totalWords": 15,
+      "completedWords": 0,
+      "progressPercent": 0,
+      "isLocked": true,
+      "estimatedPlayTime": "10-15 minutes",
+      "unlockRequirement": "Complete Animals and Colors categories",
+      "culturalContext": "Irish food culture combines traditional ingredients with modern cuisine",
+      "learningObjectives": [
+        "Learn food and drink vocabulary",
+        "Explore Irish culinary traditions",
+        "Practice more complex pronunciations"
+      ]
+    },
+    {
+      "id": "family",
+      "nameIrish": "Clann",
+      "nameEnglish": "Family",
+      "description": "Family members and relationships in Irish",
+      "icon": "👨‍👩‍👧‍👦",
+      "colorTheme": "#9C27B0",
+      "difficultyLevel": 2,
+      "priority": 2,
+      "totalWords": 12,
+      "completedWords": 0,
+      "progressPercent": 0,
+      "isLocked": true,
+      "estimatedPlayTime": "8-12 minutes",
+      "unlockRequirement": "Complete Animals and Colors categories",
+      "culturalContext": "Family is central to Irish culture and social structure",
+      "learningObjectives": [
+        "Learn family relationship terms",
+        "Understand Irish family culture",
+        "Practice gendered nouns"
+      ]
+    },
+    {
+      "id": "numbers",
+      "nameIrish": "Uimhreacha",
+      "nameEnglish": "Numbers",
+      "description": "Basic counting and numbers in Irish",
+      "icon": "🔢",
+      "colorTheme": "#3F51B5",
+      "difficultyLevel": 2,
+      "priority": 2,
+      "totalWords": 13,
+      "completedWords": 0,
+      "progressPercent": 0,
+      "isLocked": true,
+      "estimatedPlayTime": "10-15 minutes",
+      "unlockRequirement": "Complete Animals and Colors categories",
+      "culturalContext": "Irish counting system reflects ancient Celtic mathematical concepts",
+      "learningObjectives": [
+        "Learn basic counting 1-10",
+        "Understand Irish number system",
+        "Practice complex pronunciation patterns"
+      ]
+    }
+  ],
+  "metadata": {
+    "totalCategories": 5,
+    "priority1Categories": 2,
+    "priority2Categories": 3,
+    "totalVocabulary": 67,
+    "availableVocabulary": 27,
+    "lockedVocabulary": 40,
+    "averageCategoryTime": "10 minutes",
+    "difficultyProgression": "Beginner → Elementary → Intermediate",
+    "culturalThemes": [
+      "Irish agricultural heritage",
+      "Natural Irish landscapes", 
+      "Traditional Irish family structure",
+      "Irish culinary traditions",
+      "Celtic mathematical concepts"
+    ],
+    "lastUpdated": "2024-08-29T10:00:00Z",
+    "dataVersion": "1.0"
+  }
+}
